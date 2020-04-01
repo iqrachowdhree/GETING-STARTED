@@ -1,2 +1,2 @@
 # GETING-STARTED
-hello i have no idea what im doing 
+hello i have no idea what im doing
